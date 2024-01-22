@@ -1,0 +1,10 @@
+C:\Users\ANGELA\source\repos\Dorm Renting System\Dorm Renting System\bin\Debug\Dorm Renting System.exe.config
+C:\Users\ANGELA\source\repos\Dorm Renting System\Dorm Renting System\bin\Debug\Dorm Renting System.exe
+C:\Users\ANGELA\source\repos\Dorm Renting System\Dorm Renting System\bin\Debug\Dorm Renting System.pdb
+C:\Users\ANGELA\source\repos\Dorm Renting System\Dorm Renting System\obj\Debug\Dorm Renting System.csproj.AssemblyReference.cache
+C:\Users\ANGELA\source\repos\Dorm Renting System\Dorm Renting System\obj\Debug\Dorm_Renting_System.Form1.resources
+C:\Users\ANGELA\source\repos\Dorm Renting System\Dorm Renting System\obj\Debug\Dorm_Renting_System.Properties.Resources.resources
+C:\Users\ANGELA\source\repos\Dorm Renting System\Dorm Renting System\obj\Debug\Dorm Renting System.csproj.GenerateResource.cache
+C:\Users\ANGELA\source\repos\Dorm Renting System\Dorm Renting System\obj\Debug\Dorm Renting System.csproj.CoreCompileInputs.cache
+C:\Users\ANGELA\source\repos\Dorm Renting System\Dorm Renting System\obj\Debug\Dorm Renting System.exe
+C:\Users\ANGELA\source\repos\Dorm Renting System\Dorm Renting System\obj\Debug\Dorm Renting System.pdb
